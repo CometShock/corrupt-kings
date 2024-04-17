@@ -1,1 +1,1 @@
-# corruptkings
+# corrupt-kings
